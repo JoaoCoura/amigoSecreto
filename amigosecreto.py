@@ -1,7 +1,7 @@
 #Biblioteca para sorteio
 import random
 
-x = int(input("Numero de amigos: "))
+x = int(input("Número de amigos: "))
 amigos = []
 sorteios = {}
 
