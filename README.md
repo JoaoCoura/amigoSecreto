@@ -21,7 +21,7 @@ Este projeto é um sorteador de amigo secreto, desenvolvido em Python. Ele permi
 ### Exemplo de Uso
 
 ```plaintext
-Numero de amigos: 4
+Número de amigos: 4
 Amigo 1: João
 Amigo 2: Maria
 Amigo 3: Pedro
